@@ -1,6 +1,9 @@
-include <studio.h>
-it main () {
-	puts{""Programming is like building a multilingual puzzle \n");
+#include <stdio.h>
 
-   returne=0;
-}
+int main(void) 
+{ 
+puts ("Programming is like building a multilingual puzzle \n");
+
+return (0);
+ 
+} 
